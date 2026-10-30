@@ -1,0 +1,25 @@
+Izvestaj za sezonu 2024/25
+
+-- imali smo ukupno  utakmica 380, br golova 1092 , prosek golova 2.87, pobede domacina 157, pobede gostiju 128, neresene 95
+-- od citave sezone izdvaja se mesec avgust, tu najveci prosek golova po mesecu a najmanji broj utakmica
+--Prosecna poseta za celu sezonu je 24199.49 , procenat popunjenosti je 83.63 posto, nije bilo utakmica bez publike, dok smo imali 9 utakmica bez podataka o popunjenosti
+ broj utamica koje su sudije sudile 
+  54	| Samuel Achebe
+67	| Gavin Reid
+67	| Robert Kane
+69	| Stuart Attwell-Jones
+77	| Craig Pawson-Lee
+73	| Luca Benedetti
+65	| Tomás Herrera
+54	| Michael Oliver Hart
+72	| Daniel Price
+73	| Mark Halsey-Brown
+67	| Owen Pritchard
+74	| Henrik Dahl
+74	| Ivan Kovač
+70	| Simon Albright
+81	| Amir Haddad
+55	| Jonas Berg
+61	| Neil Swarbrick
+83	| Peter Lindgren
+56	| Graham Sutton
