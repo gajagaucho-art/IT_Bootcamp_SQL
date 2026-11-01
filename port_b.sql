@@ -34,22 +34,26 @@ where season = '2024/25';
 with kartoni as (
 select 
 match_id,
-count(*) as cards_in_match
+count(*) as kart_po_utakmici
 from match_events
 where event_type IN ('yellow_card', 'second_yellow', 'red_card')
 group by match_id
 )
 select 
 r.referee_name,
-count(m.match_id) as total_matches,
-coalesce(sum(k.cards_in_match), 0) as total_cards,
-round(coalesce(sum(k.cards_in_match), 0) / count(m.match_id), 2) as cards_per_match
+count(m.match_id) as uk_meceva,
+sum(k.kart_po_utakmici) as uk_kartona,
+round(sum(k.kart_po_utakmici) / count(m.match_id), 2) as kartona_po_utakmici
 from matches m
 join referees r on m.referee_id = r.referee_id
 left join kartoni k on m.match_id = k.match_id
 where m.season = '2024/25'
 group by r.referee_id, r.referee_name
-order by cards_per_match desc, total_matches desc;
+order by kartona_po_utakmici desc, uk_meceva desc;
+
+select count(match_id)
+from match_events
+where event_type IN ('yellow_card', 'second_yellow', 'red_card')
 
 --igraci
 select 
