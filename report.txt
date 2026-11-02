@@ -1,0 +1,52 @@
+Izvestaj za sezonu 2024/25
+
+-- imali smo ukupno  utakmica 380, br golova 1092 , prosek golova 2.87, pobede domacina 157, 
+   pobede gostiju 128, neresene 95
+-- od citave sezone izdvaja se mesec avgust, tu najveci prosek golova po mesecu 
+   a najmanji broj utakmica
+--Prosecna poseta za celu sezonu je 24199.49 , procenat popunjenosti je 83.63 posto,
+ nije bilo utakmica bez publike, dok smo imali 9 utakmica bez podataka o popunjenosti
+ , tri stadiona sa najvecom prosecnom posetom su:
+    Harbourside Park kapacitet 52000 prosecna poseta 44074.05, 
+    Kingsbridge Stadium kapacitet 47000 prosecna poseta 37968.42, 
+    Northport Arena kapacitet 41000 prosecna poseta 36250.17
+
+-- svaki sudija je sudio na 20 utakmica , ukupno su podelili 2678 kartona za sezonu , a lista sudija 
+sa brojem kartona je:
+85   Peter Lindgren
+82   Amir Haddad
+80   Craig Pawson-Lee
+75   Mark Halsey-Brown
+75   Henrik Dahl
+75   Ivan Kovač
+75   Luca Benedetti
+73   Daniel Price
+72   Simon Albright
+71   Stuart Attwell-Jones
+69   Robert Kane
+68   Owen Pritchard
+68   Gavin Reid
+65   Tomás Herrera
+63   Neil Swarbrick
+57   Graham Sutton
+56   Jonas Berg
+56   Michael Oliver Hart
+55   Samuel Achebe
+
+-- lista sa 5 najboljih strelaca i asistenata je 
+najbolji strelci: 
+34  Mattéo O'Brien
+32  Leo Marsh
+24  José Muñoz
+17  Marko Stanković
+16  Leo Marsh
+najbolji asistenti: 
+Jota	9
+Filip Petrović	7
+Eirik Solberg	7
+Lucas Pereira	7
+Kieran Bradley	6
+
+
+tim Westmere Town nije imao prijavljenog trenera u tabeli na jednij utakmici, a takodje 
+na jednoj utakmici nismo imali prijavljenog igraca, odnosno igraca nema u tabeli .
